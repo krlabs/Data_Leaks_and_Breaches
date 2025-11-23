@@ -69,26 +69,10 @@ https://mega.nz/file/8BZRnbRQ#sshntSQVJbjWNDrJn9CGD6yJ--vPrkjEF0Ln68iasH4
 https://mega.nz/file/FEpSAQxJ#pOCjhljtTQubkxc2jeJoFwaJtOZ0CZrsW-ORjbTnA2E
 https://mega.nz/file/dZozBLJI#jljq2Nt22lwR1s06bAdVaUoKn-nYWyJIx9wOzt8pZxA
 
-Wordlists:
-https://github.com/swisskyrepo/PayloadsAllTheThings
-https://github.com/danielmiessler/SecLists
-https://stoorm.org/article/rockyou2024-txt-recuperation-exploitation-et-consultation-du-fichier
-RockYou 48Gb - https://disk.yandex.ru/d/1spMBmxcEnN95g
-https://github.com/danielmiessler/SecLists
-https://github.com/berzerk0/Probable-Wordlists
-https://github.com/govolution/betterdefaultpasslist
-https://github.com/insidetrust/statistically-likely-usernames
-https://github.com/LandGrey/pydictor
-https://github.com/sc0tfree/mentalist
-https://github.com/skahwah/wordsmith
-https://github.com/1N3/IntruderPayloads
-https://github.com/fuzzdb-project/fuzzdb
-https://github.com/Bo0oM/fuzz.txt
-https://github.com/laconicwolf/Password-Scripts
-https://github.com/FlameOfIgnis/Pwdb-Public
-https://gowthams.gitbook.io/bughunter-handbook/fuzzing-wordlists
-https://github.com/OWASP/AppSec-Browser-Bundle/blob/master/utilities/wfuzz/wordlist/fuzzdb/Discovery/PredictableRes/Logins.fuzz.txt
-https://github.com/berzerk0/Probable-Wordlists
+# Doxbin Leaks
+https://mega.nz/file/QUxRBRgR#XtD04h4nwgQVXsOVRk_JHPPtcjb8UvW6TDfG0R1xddg
+https://mega.nz/file/IN5kjTwQ#lzXWuxXTRRtKNGvZNDV7LH8N9ldZtf0j_KvShHUDd3E
+https://mega.nz/file/kAQBSLjY#IUUkV6WbHq9xWgNRv3ys2l93sxuZ2lvXWbPWs4P84eo
 
 Passwords Leaks:
 https://weakpass.com/wordlists?page=1
